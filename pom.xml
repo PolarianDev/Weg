@@ -6,7 +6,7 @@
 
     <groupId>xyz.crafttogether</groupId>
     <artifactId>weg</artifactId>
-    <version>1.1-SNAPSHOT-1</version>
+    <version>1.1-SNAPSHOT-2</version>
     <packaging>jar</packaging>
 
     <name>weg</name>
@@ -75,8 +75,8 @@
 
     <distributionManagement>
         <repository>
-            <id>polarian-repo</id>
-            <url>https://repo.polarian.dev/repo</url>
+            <id>pb-repo</id>
+            <url>https://mvn.projectbeacon.world/</url>
         </repository>
     </distributionManagement>
 
